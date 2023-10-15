@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Threejs, React, Swift**
 
-- 👨‍💻 All of my projects are available at [https://lteyssier.dev/](https://lteyssier.dev/)
+- 👨‍💻 All of my projects are available at <a href="https://lteyssier.dev" target="_blank">lteyssier.dev</a>
 
 - 💬 Ask me about **React, Js, D3,**
 
 - 📫 How to reach me **luisteyssier@lteyssier.dev**
 
-- 📄 Know about my experiences [www.linkedin.com/in/lteyssierdev](www.linkedin.com/in/lteyssierdev)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/lteyssierdev" target="_blank">linkdin/lteyssier</a>
 
 - ⚡ Fun fact **Chick flicks never gets boring**
 
